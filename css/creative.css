@@ -338,54 +338,72 @@ fieldset[disabled] .btn-default.active {
   border-color: white;
 }
 .btn-default .badge {
-  color: white;
+  color: black;
   background-color: #222222;
 }
-.btn-primary {
-  color: white;
-  background-color: #F05F40;
-  border-color: #F05F40;
+.btn-1 {
+  color: black;
+  background-color: #c0f400;
+  border-color: #c0f400;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary.focus,
-.btn-primary:active,
-.btn-primary.active,
-.open > .dropdown-toggle.btn-primary {
+
+.btn-2 {
   color: white;
-  background-color: #ee4b28;
-  border-color: #ed431f;
+  background-color: #0a69a3;
+  border-color: #0a69a3;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
 }
-.btn-primary:active,
-.btn-primary.active,
-.open > .dropdown-toggle.btn-primary {
+
+.btn-1:hover,
+.btn-1:focus,
+.btn-1.focus,
+.btn-1:active,
+.btn-1.active,
+.open > .dropdown-toggle.btn-1 {
+  color: #0a69a3;
+}
+
+.btn-2:hover,
+.btn-2:focus,
+.btn-2.focus,
+.btn-2:active,
+.btn-2.active,
+.open > .dropdown-toggle.btn-2 {
+  color: #ff9a00;
+}
+
+.btn-1:active,
+.btn-1.active,
+.open > .dropdown-toggle.btn-1 {
   background-image: none;
 }
-.btn-primary.disabled,
-.btn-primary[disabled],
-fieldset[disabled] .btn-primary,
-.btn-primary.disabled:hover,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary:hover,
-.btn-primary.disabled:focus,
-.btn-primary[disabled]:focus,
-fieldset[disabled] .btn-primary:focus,
-.btn-primary.disabled.focus,
-.btn-primary[disabled].focus,
-fieldset[disabled] .btn-primary.focus,
-.btn-primary.disabled:active,
-.btn-primary[disabled]:active,
-fieldset[disabled] .btn-primary:active,
-.btn-primary.disabled.active,
-.btn-primary[disabled].active,
-fieldset[disabled] .btn-primary.active {
+.btn-1.disabled,
+.btn-1[disabled],
+fieldset[disabled] .btn-1,
+.btn-1.disabled:hover,
+.btn-1[disabled]:hover,
+fieldset[disabled] .btn-1:hover,
+.btn-1.disabled:focus,
+.btn-1[disabled]:focus,
+fieldset[disabled] .btn-1:focus,
+.btn-1.disabled.focus,
+.btn-1[disabled].focus,
+fieldset[disabled] .btn-1.focus,
+.btn-1.disabled:active,
+.btn-1[disabled]:active,
+fieldset[disabled] .btn-1:active,
+.btn-1.disabled.active,
+.btn-1[disabled].active,
+fieldset[disabled] .btn-1.active {
   background-color: #F05F40;
   border-color: #F05F40;
 }
-.btn-primary .badge {
+.btn-1 .badge {
   color: #F05F40;
   background-color: white;
 }
