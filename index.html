@@ -24,6 +24,12 @@
     <!-- Theme CSS -->
     <link href="css/creative.css" rel="stylesheet">
 
+    <script type="text/javascript" src="http://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+    <script type="text/javascript">
+        function mcsignup() {
+            require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"b4aa83fd64d5f81ae217ad2e5","lid":"b2a8f2980e"}) })
+        }
+    </script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -148,7 +154,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p>If you want to stay up-to-date with the group's progress, you can join the mailing list here.</p>
+                    <p>If you want to stay up-to-date with the group's progress, you can join the mailing list <a onclick="mcsignup()" href="#">here</a>.</p>
                 </div>
             </div>
         </div>
@@ -167,9 +173,6 @@
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
-
-    <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
-    <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"b4aa83fd64d5f81ae217ad2e5","lid":"b2a8f2980e"}) })</script>
 
 </body>
 
