@@ -76,7 +76,7 @@ aside {
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #888;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
