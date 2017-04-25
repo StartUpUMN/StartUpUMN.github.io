@@ -42,7 +42,13 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.bg-primary {
+.bg-1 {
+  background-color: #c0f400;
+}
+.bg-2 {
+  background-color: #0a69a3;
+}
+.bg-3 {
   background-color: #ff9a00;
 }
 .bg-dark {
@@ -233,7 +239,7 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
+  background: #ff9a00;
   position: absolute;
   bottom: 0;
   text-align: center;
