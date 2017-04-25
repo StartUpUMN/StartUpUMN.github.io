@@ -83,7 +83,7 @@ aside {
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #ff9a00;
+  color: #000;
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
