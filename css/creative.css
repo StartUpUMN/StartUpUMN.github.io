@@ -265,10 +265,10 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
   /*text-transform: uppercase;*/
   font-weight: 600;
-  font-size: 14px;
+  font-size: 20px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px;
+  font-size: 24px;
 }
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
@@ -278,10 +278,10 @@ header .header-content .header-content-inner p {
 }
 @media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-    font-size: 22px;
+    font-size: 18px;
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 .call-to-action h2 {
