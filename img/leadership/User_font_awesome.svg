@@ -13,7 +13,10 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="User_font_awesome.svg"
    width="500"
-   height="629">
+   height="629"
+   inkscape:export-filename="/Volumes/PETER64/StartUp/StartUpUMN.github.io/img/leadership/User_font_awesome.png"
+   inkscape:export-xdpi="81"
+   inkscape:export-ydpi="81">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,24 +40,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1276"
+     inkscape:window-height="755"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="0.7449875"
-     inkscape:cx="153.2578"
-     inkscape:cy="273.48571"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="364.67074"
+     inkscape:cy="382.86638"
+     inkscape:window-x="4"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <rect
-     style="opacity:1;fill:#c4c4c4;fill-opacity:1;stroke:#ffffff;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#c4c4c4;fill-opacity:1;stroke:#ffffff;stroke-width:1.13686383;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4148"
-     width="610.74847"
-     height="707.39441"
-     x="-24.16148"
-     y="-276.67532" />
+     width="554.43481"
+     height="699.40369"
+     x="-25.481527"
+     y="-284.2645"
+     inkscape:export-xdpi="81"
+     inkscape:export-ydpi="81" />
   <g
      transform="matrix(0.32274011,0,0,-0.32274011,22.223661,266.38158)"
      id="g4"

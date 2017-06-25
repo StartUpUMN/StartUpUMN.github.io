@@ -276,6 +276,16 @@ header .header-content .header-content-inner p {
 .portfolio-box:focus {
   outline: none;
 }
+/*
+#leadershipheader {
+  display: none;
+}
+@media (min-width: 900px) {
+  #leadershipheader {
+    display: block;
+  }
+}
+*/
 @media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
