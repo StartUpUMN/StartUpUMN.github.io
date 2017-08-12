@@ -48,9 +48,20 @@ p {
 }
 .bg-2 {
   background-color: #0a69a3;
+  color: white;
 }
 .bg-3 {
   background-color: #ff9a00;
+}
+.bg-1-a {
+  background-color: rgba(192,244,0,0.8);
+}
+.bg-2-a {
+  background-color: rgba(10,105,163,0.8);
+  color: white;
+}
+.bg-3-a {
+  background-color: rgba(255,154,0,0.8);
 }
 .bg-dark {
   background-color: #222222;
@@ -61,6 +72,9 @@ p {
 }
 section {
   padding: 100px 0;
+}
+ul {
+  font-size: 1.3em;
 }
 aside {
   padding: 50px 0;
