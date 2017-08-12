@@ -53,15 +53,8 @@ p {
 .bg-3 {
   background-color: #ff9a00;
 }
-.bg-1-a {
-  background-color: rgba(192,244,0,0.8);
-}
-.bg-2-a {
-  background-color: rgba(10,105,163,0.8);
-  color: white;
-}
-.bg-3-a {
-  background-color: rgba(255,154,0,0.8);
+.separator {
+  padding-bottom: 1em;
 }
 .bg-dark {
   background-color: #222222;
@@ -74,7 +67,13 @@ section {
   padding: 100px 0;
 }
 ul {
-  font-size: 1.3em;
+  font-size: 1.4em;
+}
+ul > li {
+  color: #c4c4c4;
+}
+ul > li > span {
+  color: black;
 }
 aside {
   padding: 50px 0;
