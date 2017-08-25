@@ -12,9 +12,9 @@
    id="svg4136"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="225"
-   height="225"
-   viewBox="0 0 225 225"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    sodipodi:docname="fav1-mask.svg">
   <metadata
      id="metadata4142">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1276"
+     inkscape:window-height="755"
      id="namedview4138"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="70.808337"
-     inkscape:cy="81.918468"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="8.58"
+     inkscape:cx="22.355635"
+     inkscape:cy="1.3113486"
+     inkscape:window-x="4"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -57,10 +57,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="favicon">
+     inkscape:label="favicon"
+     transform="translate(0,-209)">
     <path
-       style="fill:#040000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 10,148.89644 102,-101.999988 1,0 102,101.999988 -29,29 -73,-73 -1,0 -73,73 z"
+       style="fill:#040000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0732668px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.49015297,219.66664 7.47321293,-7.4732 0.07327,0 7.4732111,7.4732 -2.124735,2.12474 -5.3484761,-5.34848 -0.07327,0 -5.348476,5.34848 z"
        id="path4251"
        inkscape:connector-curvature="0" />
   </g>
